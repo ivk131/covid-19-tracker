@@ -1,0 +1,16 @@
+1. {/*Header*/}
+   {/*Title + select from menu!!! */}
+
+
+
+2. {/*InfoBoxs*/}
+   {/*InfoBoxs*/}
+   {/*InfoBoxs*/}
+
+3.  {/*Table Right side*/}
+    {/*Graph Right side */}
+
+4.  {/*Map*/}
+
+
+async--> send a req and wait for it. do something with
